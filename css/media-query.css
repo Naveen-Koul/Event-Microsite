@@ -1,0 +1,157 @@
+@media only screen and (max-width:360px) {
+    .main-nav {
+        display: none;
+    }
+
+    .hero {
+        height: 30vh;
+    }
+
+    .navbar {
+        display: block;
+        text-align: center;
+    }
+
+    .content h1 {
+        font-size: 2.5em;
+    }
+
+    .content {
+        left: 10%;
+    }
+
+    .about h2{
+        font-size: 2em;
+    }
+
+    .time-box {
+        display: block;
+        position: static;
+        margin: 1em auto;
+    }
+
+    .about-image{
+        width: 90%;
+    }
+
+    .ticket-box p{
+        font-size: 1.5em;
+        margin-bottom: 1em;
+    }
+
+    .btn {
+      padding: 4%;
+      font-size: 1.5em;
+
+    }
+
+    .main-content{
+        position: static;
+        width: 90%;
+        font-size: 1.5em;
+        text-align: center;
+        margin-top: 1em;
+    }
+
+    .about {
+        height: 110vh;
+    }
+
+
+    .program h2 {
+        font-size: 2em;
+    }
+
+    .time-shape {
+        display: none;
+    }
+    
+    .artist-box {
+        position: static;
+        margin: 2em auto;
+        text-align: center;
+    }
+
+    .shape2 {
+        width: 90%;
+    }
+
+    .footer-content {
+        font-size: 1em;
+    }
+
+    .fo-btn {
+        padding: 3%;
+        font-size: 1.5em;
+        width:80%;
+    }
+
+    .copy {
+        font-size: 1em;
+    }
+
+    .performer-grid {
+        display: block;
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .performer-img {
+        margin: 2em 0;
+    }
+
+    .title {
+        font-size: 3em;
+    }
+
+    .main-para {
+        font-size: 1em;
+        margin: 1em auto;
+    }
+
+    .book {
+        font-size: 3em;
+    }
+
+    .vip {
+        max-width: 90%;
+        padding: 4%;
+        text-align: center;
+    }
+
+    .ticket-grid {
+        display: block;
+        width: 90%;
+        text-align: center;
+    }
+
+    .full {
+        display: block;
+        padding: 3%;
+        letter-spacing: 0;
+    
+    }
+
+    .multi {
+        display: block;
+        padding: 3%;
+        letter-spacing: 0;
+        margin: 2em 0;
+        
+    }
+
+     .single {
+         display: block;
+        padding: 3%;
+        letter-spacing: 0;
+    }
+
+
+    h5 {
+        font-size: 3em;
+    }
+
+    .form-container {
+        width: 90%;
+    }
+}
